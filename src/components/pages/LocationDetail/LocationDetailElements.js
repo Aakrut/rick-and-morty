@@ -31,7 +31,7 @@ border-radius: 20px;
 
 
 export const LocationName = styled.h2`
-font-family: 'Lato'sans-serif;
+font-family: 'Lato',sans-serif;
 color: #7AFF74;
 `
 
